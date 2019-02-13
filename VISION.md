@@ -9,6 +9,9 @@ Link to ustream compatible tutorial
 https://www.ustream.tv/channel/iss-hdev-payload
 link to ustream - 720p feed available
 
+Overlay of current ISS location?
+https://isstracker.spaceflight.esa.int/
+
 ## View 2
 https://www.star.nesdis.noaa.gov/GOES/conus_band.php?sat=G16&band=GEOCOLOR&length=12
 
