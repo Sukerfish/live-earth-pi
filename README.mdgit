@@ -1,0 +1,1 @@
+"# live-earth-pi"  initgit add README.mdgit commit -m "first commit"git remote add origin https://github.com/Sukerfish/live-earth-pi.gitgit push -u origin master
