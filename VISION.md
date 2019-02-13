@@ -17,3 +17,6 @@ https://www.star.nesdis.noaa.gov/GOES/conus_band.php?sat=G16&band=GEOCOLOR&lengt
 
 GOES data pulls from here - static addresses. Maybe rotate around thru a couple different feeds?
 Bare minimum is latest CONUS view.
+
+## GPIO
+https://raspberrypihq.com/use-a-push-button-with-raspberry-pi-gpio/
